@@ -1,0 +1,12 @@
+# Blender 3.3.1 MTL File: 'cube-logo-black.blend'
+# www.blender.org
+
+newmtl VRLL_Cube
+Ns 670.593262
+Ka 0.377953 0.377953 0.377953
+Ks 0.255906 0.255906 0.255906
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Logo-black-border.png
